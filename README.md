@@ -15,4 +15,6 @@ Este es el repositorio del curso de Deep Learning del DCC - Uchile.
     * Laboratorio [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivansipiran/CC6204-Deep-Learning/blob/main/Labs/Lab4_optimization.ipynb) 
 * Regularización y convergencia [Slides](./Slides/6_Regularization_convergence.pdf)
 * Redes convolucionales [Slides 1](./Slides/7_CNN1.pdf) [Slides 2](./Slides/8_CNN2.pdf)
+    * Laboratorio convolución[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivansipiran/CC6204-Deep-Learning/blob/main/Labs/Lab5_idea_convolution.ipynb)
+    * Laboratorio CNN[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivansipiran/CC6204-Deep-Learning/blob/main/Labs/Lab6_CNN_MNIST.ipynb)
 * Clasificación de imágenes y Transfer learning [Slides 1](./Slides/9_Classification_Architectures.pdf) [Slides 2](./Slides/10_TransferLearning.pdf)
