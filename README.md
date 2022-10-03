@@ -19,3 +19,4 @@ Este es el repositorio del curso de Deep Learning del DCC - Uchile.
     * Laboratorio CNN[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivansipiran/CC6204-Deep-Learning/blob/main/Labs/Lab6_CNN_MNIST.ipynb)
 * Clasificación de imágenes y Transfer learning [Slides 1](./Slides/9_Classification_Architectures.pdf) [Slides 2](./Slides/10_TransferLearning.pdf)
     * Laboratorio Arquitecturas CNN[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivansipiran/CC6204-Deep-Learning/blob/main/Labs/Lab7_CNN_Architectures.ipynb)
+    * Laboratorio Transfer Learning[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivansipiran/CC6204-Deep-Learning/blob/main/Labs/Lab8_TransferLearning.ipynb)
