@@ -20,3 +20,6 @@ Este es el repositorio del curso de Deep Learning del DCC - Uchile.
 * Clasificación de imágenes y Transfer learning [Slides 1](./Slides/9_Classification_Architectures.pdf) [Slides 2](./Slides/10_TransferLearning.pdf)
     * Laboratorio Arquitecturas CNN[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivansipiran/CC6204-Deep-Learning/blob/main/Labs/Lab7_CNN_Architectures.ipynb)
     * Laboratorio Transfer Learning[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivansipiran/CC6204-Deep-Learning/blob/main/Labs/Lab8_TransferLearning.ipynb)
+* Visión Computacional [Slides](./Slides/11_ComputerVision.pdf)
+    * Laboratorio detección de objetos (YoloV3)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivansipiran/CC6204-Deep-Learning/blob/main/Labs/Lab9_DeteccionObjetosYOLO.ipynb)
+    * Laboratorio detección de objetos (SSD)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivansipiran/CC6204-Deep-Learning/blob/main/Labs/Lab10_SSD.ipynb)
