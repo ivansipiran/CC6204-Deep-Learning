@@ -26,3 +26,5 @@ Este es el repositorio del curso de Deep Learning del DCC - Uchile.
     * (Extra) Laboratorio entrenamiento detección de objetos con dataset propio[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivansipiran/CC6204-Deep-Learning/blob/main/Labs/LabExtra1_YOLOv4_PyTorch.ipynb)
 * Modelos para secuencias - Redes Neuronales Recurrentes [Slides](./Slides/12_SequenceModels.pdf)
     * Laboratorio clasificación de reviews [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivansipiran/CC6204-Deep-Learning/blob/main/Labs/Lab11_Classification_RNN.ipynb)
+* Neural Machine Translation + Atención [Slides](./Slides/13_NeuralMachineTranslation_Attention.pdf)
+    * Laboratorio Atención Neuronal para NMT [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivansipiran/CC6204-Deep-Learning/blob/main/Labs/Lab12_NMT_attention.ipynb)
