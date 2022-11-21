@@ -28,3 +28,5 @@ Este es el repositorio del curso de Deep Learning del DCC - Uchile.
     * Laboratorio clasificación de reviews [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivansipiran/CC6204-Deep-Learning/blob/main/Labs/Lab11_Classification_RNN.ipynb)
 * Neural Machine Translation + Atención [Slides](./Slides/13_NeuralMachineTranslation_Attention.pdf)
     * Laboratorio Atención Neuronal para NMT [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivansipiran/CC6204-Deep-Learning/blob/main/Labs/Lab12_NMT_attention.ipynb)
+* Transformers [Slides](./Slides/14_Transformers.pdf)
+* Generative models [Slides](./Slides/15_GenerativeModels.pdf)
