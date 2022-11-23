@@ -33,3 +33,4 @@ Este es el repositorio del curso de Deep Learning del DCC - Uchile.
 * Generative models [Slides](./Slides/15_GenerativeModels.pdf)
     * Laboratorio Noise Autoencoders [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivansipiran/CC6204-Deep-Learning/blob/main/Labs/Lab14_NoiseAutoencoder.ipynb)
     * Laboratorio Variational Autoencoder  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivansipiran/CC6204-Deep-Learning/blob/main/Labs/Lab15_VAE.ipynb)
+    * Laboratorio GAN [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivansipiran/CC6204-Deep-Learning/blob/main/Labs/Lab16_GAN.ipynb)
