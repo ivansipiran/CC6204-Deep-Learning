@@ -7,7 +7,12 @@ En este caso trabajaremos con un dataset que contiene datos sobre especies de p�
 ## Dataset CUB
 Este dataset contiene datos para clasificar a una determinada ave dentro de su especie. El dataset consiste de 200 clases de especies y contiene tanto imágenes como descripciones textuales de cada instancia.
 
-El dataset lo pueden descargar [aquí](https://drive.google.com/file/d/1_0i3sZG5y4w9mbTBokCt-Gs5Ny_axLyr/view?usp=share_link). Pueden usar [gdown](https://github.com/wkentaro/gdown) para descargar el archivo en sus notebooks usando el ID=1_0i3sZG5y4w9mbTBokCt-Gs5Ny_axLyr
+El dataset lo pueden descargar [aquí](https://drive.google.com/file/d/1_0i3sZG5y4w9mbTBokCt-Gs5Ny_axLyr/view?usp=share_link). Pueden usar [gdown](https://github.com/wkentaro/gdown) para descargar el archivo en sus notebooks usando el ID=1_0i3sZG5y4w9mbTBokCt-Gs5Ny_axLyr. Se puede usar el commando:
+
+~~~
+!gdown --id '1_0i3sZG5y4w9mbTBokCt-Gs5Ny_axLyr&confirm=t'
+~~~
+
 
 El dataset contiene dos folders y cuatro archivos de texto. 
 
