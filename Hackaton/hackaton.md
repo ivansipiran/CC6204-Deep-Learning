@@ -7,6 +7,27 @@ En este caso trabajaremos con un dataset que contiene datos sobre especies de p�
 ## Dataset CUB
 Este dataset contiene datos para clasificar a una determinada ave dentro de su especie. El dataset consiste de 200 clases de especies y contiene tanto imágenes como descripciones textuales de cada instancia.
 
+### Descargar desde repositorio en Hugging Face
+
+Es posible descargar el dataset directamente desde el repositorio de datos [CC6204-Hackaton-Cub-Dataset](https://huggingface.co/datasets/alkzar90/CC6204-Hackaton-Cub-Dataset) en Hugging Face. Este ya se encuentra estructurado en los conjuntos de entrenamiento y pruebas; para descargar desde sus notebooks solo deben usar los siguientes comandos:
+
+~~~
+!pip install datasets
+from datasets import load_dataset
+dataset = load_dataset("alkzar90/CC6204-Hackaton-Cub-Dataset")
+~~~
+
+A continuación una observación del dataset:
+
+```python
+{'image': <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=334x500 at 0x7F59DE348AF0>,
+ 'description': 'this bird has a short orange bill, white breast and body and white eyes.\na medium sized bird with a orange bill and a black crown and white eyes\nthis white-breasted bird has a short, squat, orange bill, a black head and wings, and small white eyes above a white stripe.\nthis bird has a white breast, a black head, a short red beak, and webbed feet.\nthis bird is white with black on its neck and has a long, pointy beak.\nthis bird has wings that are black and has a white belly\nthis bird has wings that are black and has a long bill\nthis is a medium sized bird, with a white belly, and a grey head and wings, with a short yellow bill.\nthis bird is white and gray in color, and has a bright orange beak.\nthis bird has a blunt orange beak with mostly black above the neck, the belly is solid white.\n',
+ 'label': 6,
+ 'file_name': 'Parakeet_Auklet_0048_795980.jpg'}
+ ```
+
+### Descargar archivos no procesados
+
 El dataset lo pueden descargar [aquí](https://drive.google.com/file/d/1_0i3sZG5y4w9mbTBokCt-Gs5Ny_axLyr/view?usp=share_link). Pueden usar [gdown](https://github.com/wkentaro/gdown) para descargar el archivo en sus notebooks usando el ID=1_0i3sZG5y4w9mbTBokCt-Gs5Ny_axLyr. Se puede usar el commando:
 
 ~~~
