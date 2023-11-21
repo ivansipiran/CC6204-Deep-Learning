@@ -29,6 +29,7 @@ Este es el repositorio del curso de Deep Learning del DCC - Uchile.
 * Neural Machine Translation + Atención [Slides](./Slides/13_NeuralMachineTranslation_Attention.pdf)
     * Laboratorio Atención Neuronal para NMT [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivansipiran/CC6204-Deep-Learning/blob/main/Labs/Lab12_NMT_attention.ipynb)
 * Transformers [Slides](./Slides/14_Transformers.pdf)
+    * Laboratorio BERT Finetuning [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivansipiran/CC6204-Deep-Learning/blob/main/Labs/Lab17_BERT_finetuning.ipynb) 
     * Laboratorio ViT [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivansipiran/CC6204-Deep-Learning/blob/main/Labs/Lab13_ViT.ipynb)
 * Generative models [Slides](./Slides/15_GenerativeModels.pdf)
     * Laboratorio Noise Autoencoders [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivansipiran/CC6204-Deep-Learning/blob/main/Labs/Lab14_NoiseAutoencoder.ipynb)
